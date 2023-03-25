@@ -1,6 +1,6 @@
 - 👋 Hi, I’m **Hieu Nguyen**
-- 👀 I’m interested in **Data Science and Web Development**.
-- 🌱 I’m currently learning **Information Systems major**, Web Development and doing some research on Machine Learning.
+- 👀 I’m interested in **Data Science and Web/App Development**.
+- 🌱 I’m currently learning **Information Systems major**.
 - 💞️ I’m looking to collaborate on any aspects of technology with anybody passionated.
 <!-- - 📫 How to reach me  -->
 
