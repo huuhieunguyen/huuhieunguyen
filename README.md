@@ -1,5 +1,5 @@
 - 👋 Hi, I’m **Hieu Nguyen**
-- 👀 I’m interested in **Data Science and Web/App Development**.
+- 👀 I’m interested in **Data Science and Backend Development**.
 - 🌱 I’m currently learning **Information Systems major**.
 - 💞️ I’m looking to collaborate on any aspects of technology with anybody passionated.
 <!-- - 📫 How to reach me  -->
